@@ -1,9 +1,14 @@
+// Copyright 2022 ARSkyline Authors. All rights reserved.
+// Powered by Weemin
+
 #if UNITY_EDITOR
     using UnityEditor;
     using UnityEditor.SceneManagement;
 #endif
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
+// Author: Maxime PREMONT
 
 [ExecuteInEditMode]
 public class SceneLoader : MonoBehaviour {

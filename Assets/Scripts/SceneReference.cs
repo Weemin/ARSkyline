@@ -1,3 +1,6 @@
+// Copyright 2022 ARSkyline Authors. All rights reserved.
+// Powered by Weemin
+
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
