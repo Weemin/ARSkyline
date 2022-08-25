@@ -1,6 +1,6 @@
 <h1 align="center">🛸 ARSkyline</h1>
 <h3 align="center">GitHub skyline viewer in augmented reality</h3>
-<img align="center" alt="Skyline demo" src="./.github/images/skyline.gif" />
+<p align=center><img align="center" alt="Skyline demo" src="./.github/images/skyline.gif" /></p>
 <p></p>
 <p align="center">
 <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Sleepycat-yellow" /></a>
