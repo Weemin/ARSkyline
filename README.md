@@ -30,3 +30,7 @@ Once the first functional versions of the ARSkyline project will be available, i
 <h2>📝 Usage</h2>
 
 After installing the app on your device, just launch it. Depending on your configuration, you will have to accept the use of the camera.
+
+<h2>📄 Support</h2>
+
+If you have any questions or problems, you can [create an issue](https://github.com/Weemin/ARSkyline/issues) or [add a new discussion](https://github.com/Weemin/ARSkyline/discussions).
