@@ -26,3 +26,7 @@ Follow the steps below to be able to install ARSkyline on your phone :
 &nbsp;&nbsp;&nbsp;&nbsp;6️⃣ Install on your device with the result
 
 Once the first functional versions of the ARSkyline project will be available, it will be possible to download the compiled version directly.
+
+<h2>📝 Usage</h2>
+
+After installing the app on your device, just launch it. Depending on your configuration, you will have to accept the use of the camera.
