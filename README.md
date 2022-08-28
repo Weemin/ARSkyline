@@ -34,3 +34,7 @@ After installing the app on your device, just launch it. Depending on your confi
 <h2>📄 Support</h2>
 
 If you have any questions or problems, you can [create an issue](https://github.com/Weemin/ARSkyline/issues) or [add a new discussion](https://github.com/Weemin/ARSkyline/discussions).
+
+<h2>💡 Contributing</h2>
+
+Do you have the slightest idea or do you want to develop the project? **Feel free to contribute !** For this a [contribution guide](./CONTRIBUTING.md) is available.
